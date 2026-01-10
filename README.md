@@ -1,5 +1,31 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## Resume Summary
+
+**Full-Stack E-Commerce Web Application - "Critter Collectibles"**
+
+Developed a comprehensive pet products e-commerce platform utilizing modern web technologies and demonstrating proficiency across the full development stack. Built with Next.js 13 and TypeScript, the application features server-side rendering, API routes, and a responsive UI designed with Tailwind CSS.
+
+**Key Technical Achievements:**
+- **Frontend Development:** Implemented a dynamic, responsive user interface using React 18, Next.js 13 App Router, and TypeScript with 25+ reusable components including shopping cart, product catalog, search functionality, and interactive carousels
+- **Backend Architecture:** Designed and developed RESTful API endpoints using Next.js API routes for user authentication, product management, order processing, and discount code validation
+- **Database Design:** Architected a relational PostgreSQL database with Prisma ORM, implementing normalized schemas for users, products, orders, categories, pets, and discounts with proper foreign key relationships
+- **Authentication & Security:** Integrated NextAuth.js for session management and implemented bcrypt password hashing to ensure secure user authentication and authorization with role-based access control (admin/user roles)
+- **Cloud Integration:** Leveraged cloud services including AWS S3 and Cloudinary for scalable image storage and management, and Vercel for deployment and hosting
+- **Admin Dashboard:** Built a complete admin panel with product CRUD operations, user management, order history tracking, and discount code creation/management
+- **E-Commerce Features:** Implemented full shopping cart functionality, checkout process with order form validation, discount code application with stacking capability, and order history for users
+- **Code Quality:** Maintained code quality with ESLint, Prettier for formatting, and implemented structured logging using Winston
+
+**Technologies Used:**
+- **Frontend:** Next.js 13, React 18, TypeScript, Tailwind CSS, Bootstrap, React Icons, Tiptap Editor
+- **Backend:** Next.js API Routes, NextAuth.js, Prisma ORM
+- **Database:** PostgreSQL (Vercel Postgres)
+- **Cloud Services:** AWS S3, Cloudinary, Vercel Blob/KV
+- **Security:** Bcrypt for password hashing, NextAuth.js for session management
+- **Development Tools:** ESLint, Prettier, Winston (logging)
+
+This project demonstrates strong full-stack development capabilities, including UI/UX design, RESTful API development, database architecture, authentication implementation, cloud service integration, and production deployment.
+
 ## Getting Started
 
 After pulling repo, make sure nodeJS is installed.
